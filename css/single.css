@@ -131,6 +131,7 @@ section{
     width: 123%;
     height: 1.38rem;
     padding-left: 0.3rem;
+    clear: both;
 }
 .sec_box_son_sum{
     width: 100%;
@@ -139,6 +140,8 @@ section{
     transition:all 0.3s linear;
 }
 .swiperleft{
+    /*transform:translateX(-20%);*/
+    /*-webkit-transform:translateX(-20%);*/
     transform:translateX(-13%);
     -webkit-transform:translateX(-13%);
 }
