@@ -36,8 +36,8 @@
       <file leaf-file-name="single.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/single.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="142" column="36" lean-forward="false" selection-start-line="142" selection-start-column="36" selection-end-line="142" selection-end-column="36" />
+            <state relative-caret-position="274">
+              <caret line="141" column="31" lean-forward="true" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -46,8 +46,8 @@
       <file leaf-file-name="single.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/single.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="52" column="84" lean-forward="true" selection-start-line="52" selection-start-column="84" selection-end-line="52" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -195,12 +195,12 @@
       <workItem from="1525344154855" duration="138000" />
       <workItem from="1525394707338" duration="13843000" />
       <workItem from="1525411285721" duration="4172000" />
-      <workItem from="1525415662174" duration="5207000" />
+      <workItem from="1525415662174" duration="4233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29954000" />
+    <option name="totallyTimeSpent" value="28980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -454,16 +454,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/single.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state relative-caret-position="361">
+          <caret line="52" column="84" lean-forward="true" selection-start-line="52" selection-start-column="84" selection-end-line="52" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/single.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="142" column="36" lean-forward="false" selection-start-line="142" selection-start-column="36" selection-end-line="142" selection-end-column="36" />
+        <state relative-caret-position="274">
+          <caret line="141" column="31" lean-forward="true" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
           <folding />
         </state>
       </provider>

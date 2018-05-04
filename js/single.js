@@ -32,11 +32,12 @@ $(document).ready(function () {
             swipeY = true;
             if (expansion){
                 expansion.className = "sec_box_son_sum";
-                // $(this).children().eq(1).children().eq(1).css("display","block");
+                $(this).children().eq(1).children().eq(1).css("display","block");
             }
         });
         li[i].addEventListener('touchmove', function(event){
-            // $(".sec_box_son_heart").css("display","block");
+            // $(this).children().eq(1).children().eq(1).css("display","block");
+            $(".sec_box_son_heart").css("display","block");
             X = event.changedTouches[0].pageX;
             Y = event.changedTouches[0].pageY;
 
@@ -49,7 +50,7 @@ $(document).ready(function () {
                 if (x - X > 10){
                     event.preventDefault();
                     this.className = "sec_box_son_sum swiperleft";
-                    // $(this).children().eq(1).children().eq(1).css("display","none");
+                    $(this).children().eq(1).children().eq(1).css("display","none");
 
                     expansion = this;
                 }
