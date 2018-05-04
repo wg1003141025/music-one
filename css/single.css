@@ -131,7 +131,7 @@ section{
     width: 123%;
     height: 1.38rem;
     padding-left: 0.3rem;
-    clear: both;
+    overflow: hidden;
 }
 .sec_box_son_sum{
     width: 100%;
