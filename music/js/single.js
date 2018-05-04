@@ -50,7 +50,6 @@ $(document).ready(function () {
                     event.preventDefault();
                     this.className = "sec_box_son_sum swiperleft";
                     // $(this).children().eq(1).children().eq(1).css("display","none");
-
                     expansion = this;
                 }
                 swipeY = false;
